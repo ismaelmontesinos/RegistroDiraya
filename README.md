@@ -10,4 +10,4 @@ Lenguaje usado-> Raku
 ## Documentación
 
 ### Enlaces
-[Configuración inicial de git](https://github.com/ismaelmontesinos/RegistroDiraya/Documentos)
+[Configuración inicial de git](Documentos)
